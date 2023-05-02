@@ -1,0 +1,32 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+card {
+  padding: 20px;
+}
+
+form {
+  margin: 50px;
+
+}
+button {
+  margin-top: 15px;
+  width: 100%;
+  /* font-size: large; */
+}
+label {
+  font-size: large;
+}
